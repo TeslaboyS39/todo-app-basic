@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+TLDR: To run this website all you need to do are:
+Backend: cd backend => node --watch Server
+FrontEnd: cd frontend => cd src => npm start
+
 ## Available Scripts
 
 In the project directory, you can run:
