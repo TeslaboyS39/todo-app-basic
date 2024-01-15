@@ -1,7 +1,7 @@
 import axios from "axios";
 
 // const baseUrl = "http://localhost:5000";
-const baseUrl = "https://todo-app-basic-roan.vercel.app/";
+const baseUrl = "https://todo-app-basic-roan.vercel.app";
 
 const getAllToDo = (setToDo) => {
   axios.get(baseUrl).then(({ data }) => {
