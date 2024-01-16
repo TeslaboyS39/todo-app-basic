@@ -21,7 +21,7 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <h1>ToDo App</h1>
+        <h1>To Do App</h1>
         <div className="top">
           <input
             type="text"
